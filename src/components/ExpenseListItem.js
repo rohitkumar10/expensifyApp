@@ -16,5 +16,5 @@ const ExpenseListItem = ({dispatch, id, description, amount, createdAt}) => (
         </Link>
     
 ) 
-
+ 
 export default ExpenseListItem
